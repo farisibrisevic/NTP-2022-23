@@ -1,0 +1,5 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\Ibrisevic\Desktop\Faris\Fakultet\II Semestar\Faris-2022-23\NTP\Zadaca2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(67,17): warning C4566: character represented by universal-character-name '\u0107' cannot be represented in the current code page (1252)
+C:\Users\Ibrisevic\Desktop\Faris\Fakultet\II Semestar\Faris-2022-23\NTP\Zadaca2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(84,29): warning C4566: character represented by universal-character-name '\u0107' cannot be represented in the current code page (1252)
+C:\Users\Ibrisevic\Desktop\Faris\Fakultet\II Semestar\Faris-2022-23\NTP\Zadaca2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(112,57): warning C4566: character represented by universal-character-name '\u0107' cannot be represented in the current code page (1252)
+  ConsoleApplication1.vcxproj -> C:\Users\Ibrisevic\Desktop\Faris\Fakultet\II Semestar\Faris-2022-23\NTP\Zadaca2\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe

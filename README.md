@@ -1,7 +1,7 @@
 # NTP-2022-23
 Napredne tehnike programiranja - Politehnički fakultet Univerziteta u Zenici
 
-Materijali sa predavanja, zadaće i projekti na predmetu "Napredne tehnike programiranja" na II (ljetnom) semestru.
+Materijali sa predavanja i vježbi, zadaće i projekti na predmetu "Napredne tehnike programiranja" na II (ljetnom) semestru.
 
 2022/23. akademska godina
 
